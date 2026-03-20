@@ -1,97 +1,12 @@
 #EXTM3U billed-msg="Playlist by Techcare"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz,
+https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz,
+https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
 
-#EXTINF:-1 tvg-id="MyTeam1" group-title="PepperLive MPD", orf kids
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gkluDe9.png" channel-number="1" group-title="trylang", WilTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab89153b2de5951ab98c7fe1f2a84c5:9862271662efa59fba2364e1a4354db7
+#KODIPROP:inputstream.adaptive.license_key=b1773d6f982242cdb0f694546a3db26f
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://web12.mdn.ors.at/orf/web12/drmqxa/manifest.mpd
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/wiltv/default/index.mpd
 
-#EXTINF:-1 tvg-id="MyTeam2" group-title="PepperLive MPD", MyTeam2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=86a1959cac713d0333a715e46ff054c5:93d3e94a633cc63b8955fc8e3b348783
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://svc40.main.sl.t-online.de/L...e/PLTV/88888888/224/3221228119/3221228119.mpd
 
-#EXTINF:-1 tvg-id="MyTeam3" group-title="PepperLive MPD", MyTeam3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cf97f4ac77dd8f83109067fb0aa24f77:c7e6e8f4aca32ab0e89b95f1ffef8bf4
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://svc40.main.sl.t-online.de/L...e/PLTV/88888888/224/3221228153/3221228153.mpd
-
-#EXTINF:-1 tvg-id="MyTeam4" group-title="PepperLive MPD", MyTeam4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e37f894eecd45232421b8a15dec905ac:9623f26c3dfb0bba907096e73e9f1eb3
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://svc40.main.sl.t-online.de/L...e/PLTV/88888888/224/3221228121/3221228121.mpd
-
-#EXTINF:-1 tvg-id="MyTeam5" group-title="PepperLive MPD", MyTeam5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ff01e5b4a8c72c5fc7315437e9c54f72:b2e1b2cac91e968fb0bc4e14de7b0858
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://svc40.main.sl.t-online.de/L...e/PLTV/88888888/224/3221228159/3221228159.mpd
-
-#EXTINF:-1 tvg-id="MyTeam6" group-title="PepperLive MPD", MyTeam6
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8480a6faae2d67131882201bee3988ed:418a47497c4efc7169caeaccf0151bc2
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://svc40.main.sl.t-online.de/L...e/PLTV/88888888/224/3221228120/3221228120.mpd
-
-#EXTINF:-1 tvg-id="MyTeam7" group-title="PepperLive MPD", MyTeam7
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bf3f255b685ae95bb3dd6ca944a7034b:ffba83d06adf9c4ea78f79e32b792edc
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://svc40.main.sl.t-online.de/L...e/PLTV/88888888/224/3221228123/3221228123.mpd
-
-#EXTINF:-1 tvg-id="MyTeam8" group-title="PepperLive MPD", MyTeam8
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a3eb9c9b79d6a869423a88906f2031c7:eb301296a4d213e2f1f0aa02ddc826d9
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://svc40.main.sl.t-online.de/L...e/PLTV/88888888/224/3221228134/3221228134.mpd
-
-#EXTINF:-1 tvg-id="MyTeam9" group-title="PepperLive MPD", MyTeam9
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f4b01a25267bc6ac68c4260040d30238:9fc5b5abd9c16439de77c1951ea3983e
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://svc40.main.sl.t-online.de/L...e/PLTV/88888888/224/3221228134/3221228134.mpd
-
-#EXTINF:-1 tvg-id="MyTeam10" group-title="PepperLive MPD", MyTeam10
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=64d64d108c358dd554646f34d5465378:20b58e44d928aadfac849d364041a8bd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://svc40.main.sl.t-online.de/L...e/PLTV/88888888/224/3221228174/3221228174.mpd
-
-#EXTINF:-1 tvg-id="BUNDESLIGA1" group-title="PepperLive MPD", BUNDESLIGA1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c0c0220200ffebf3e256f155ae53013b:6fab0a2dbec6f507195284a2e5c096ce
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://svc40.main.sl.t-online.de/L...e/PLTV/88888888/224/3221228661/3221228661.mpd
-
-#EXTINF:-1 tvg-id="BUNDESLIGA2" group-title="PepperLive MPD", BUNDESLIGA2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4cbc6f9ca9fe7220129d7c7f5df28855:1d84759f8f7ddd5fb0e073bd16678c9a
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://svc40.main.sl.t-online.de/L...e/PLTV/88888888/224/3221228655/3221228655.mpd
-
-#EXTINF:-1 tvg-id="BUNDESLIGA3" group-title="PepperLive MPD", BUNDESLIGA3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34ee4effc3f8ab0f0ff07a1312c6e68e:f2a8d0a67a34e7276c623e8e1189bbe5
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://svc40.main.sl.t-online.de/L...e/PLTV/88888888/224/3221228662/3221228662.mpd
-
-#EXTINF:-1 tvg-id="BUNDESLIGA4" group-title="PepperLive MPD", BUNDESLIGA4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8872fba0c49120db063ac1efcf634d09:2c69687b84a950ead9f92e53092042ea
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://svc40.main.sl.t-online.de/L...e/PLTV/88888888/224/3221228652/3221228652.mpd
-
-#EXTINF:-1 tvg-id="BUNDESLIGA5" group-title="PepperLive MPD", BUNDESLIGA5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=97be70d816106d7fd3510f2c89ea1979:17ec0205682e43d6224d8aedc9c47071
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://svc40.main.sl.t-online.de/L...e/PLTV/88888888/224/3221228656/3221228656.mpd
-
-#EXTINF:-1 tvg-id="BUNDESLIGA6" group-title="PepperLive MPD", BUNDESLIGA6
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ca51652d8c0f72c4f0fd476c02780652:32f31e4161e76d2f4d85198d0f3b115a
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://svc40.main.sl.t-online.de/L...e/PLTV/88888888/224/3221228657/3221228657.mpd
