@@ -1,10 +1,10 @@
 #EXTM3U billed-msg="Playlist by Techcare"
 
-#EXTINF:-1 tvg-id="MyTeam1" group-title="PepperLive MPD", MyTeam1
+#EXTINF:-1 tvg-id="MyTeam1" group-title="PepperLive MPD", orf kids
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d800b944e20fb93470c79d2ca1e94a69:afa4ab797f66a31fc6bc4abb7e4f9bc4
+#KODIPROP:inputstream.adaptive.license_key=8ab89153b2de5951ab98c7fe1f2a84c5:9862271662efa59fba2364e1a4354db7
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://svc40.main.sl.t-online.de/L...e/PLTV/88888888/224/3221228118/3221228118.mpd
+https://web12.mdn.ors.at/orf/web12/drmqxa/manifest.mpd
 
 #EXTINF:-1 tvg-id="MyTeam2" group-title="PepperLive MPD", MyTeam2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
