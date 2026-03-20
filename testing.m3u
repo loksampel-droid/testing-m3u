@@ -1,6 +1,5 @@
 #EXTM3U billed-msg="Playlist by Techcare"
 
-#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tv-philippines/images/4/43/WILTV_logo.png",Wil TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tv-philippines/images/4/43/WILTV_logo.png/revision/latest?cb=20251214021032" group-title="Entertainment",WILL TV
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/wiltv/default/index.mpd
-
 
